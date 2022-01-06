@@ -1,0 +1,7 @@
+package testSCA
+
+object scalObject {
+
+
+
+}
